@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.smartHost.controller.RoomUsageControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 55.741 s - in com.smartHost.controller.RoomUsageControllerTest
